@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" height="25" alt="linkedin logo" onclick="window.location.href('https://www.linkedin.com/in/sampritha-a-403656259/');" />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
 </div>
 
@@ -69,7 +69,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=22CSR169-SAMPRI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=22CSR169-SAMPRI)](https://github.com/anuraghazra/github-readme-stats)
+  <br />
+  
+ <img src="https://github-readme-stats.vercel.app/api?username=22CSR169-SAMPRI" />
 </div>
 
 ###
