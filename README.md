@@ -4,10 +4,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" height="25" alt="linkedin logo" onclick="window.location.href('https://www.linkedin.com/in/sampritha-a-403656259/');" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-</div>
+
 
 ###
 
